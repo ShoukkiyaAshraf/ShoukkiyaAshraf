@@ -2,7 +2,7 @@
 ###### It's me Shoukkiya
 
 - 🔭 I'm Currently working on <a href='https://github.com/ShoukkiyaAshraf/CovidData_by_Shaheen_Aug04' > Kerala Covid-19 Analysis </a>
-- 📫 You can Connect with me @ <a href='https://shoukkiyaashraf.live/'> shoukkiya Ashraf </a>
+- 📫 You can Connect with me @ <a href='https://shoukkiyaashraf.live/'> Shoukkiya Ashraf </a>
 
 <!--
 **ShoukkiyaAshraf/ShoukkiyaAshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

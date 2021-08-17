@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 Latest Project <a href='https://github.com/ShoukkiyaAshraf/CovidData_by_Shaheen_Aug04' > Kerala Covid-19 Analysis </a>
-- 📫 You can Connect with me @ <a href='https://shoukkiyaashraf.live/'> Shoukkiya Ashraf </a>
+- 🔭 Latest Project <a href='https://github.com/ShoukkiyaAshraf/keralacovid19.io' > Kerala Covid-19 Analysis </a>
+- 📫 You can Connect with me @ <a href='https://www.linkedin.com/in/shoukkiyaashraf/'> Shoukkiya Ashraf </a>
